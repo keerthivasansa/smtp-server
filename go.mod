@@ -1,6 +1,6 @@
 module keerthivasan.tech/smtp-server
 
-go 1.21.0
+go 1.20
 
 require gopkg.in/mail.v2 v2.3.1
 
